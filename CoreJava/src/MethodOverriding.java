@@ -22,19 +22,19 @@ class R extends P{
 		System.out.println("In R");
 	}
 }
-//
-//public class MethodOverriding {
-//
-//	public static void main(String[] args) {
-//		Q q= new Q();
-//		System.out.println("Calling Q's show");
-//		q.show();    
-//		
-//		R r=new R();
-//		System.out.println("Calling R's show");
-//		r.show();
-//		
-//
-//	}
-//
-//}
+
+public class MethodOverriding {
+
+	public static void main(String[] args) {
+		Q q= new Q();
+		System.out.println("Calling Q's show");
+		q.show();    
+		
+		R r=new R();
+		System.out.println("Calling R's show");
+		r.show();
+		
+
+	}
+
+}
