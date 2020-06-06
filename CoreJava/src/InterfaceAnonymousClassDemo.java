@@ -1,5 +1,7 @@
 //Interface are like a contract between the implementation guy and user
 //With Anonymous class , we can make object of Interface
+
+@FunctionalInterface   //Interca ewith one method only, Not needed to write it as such if we have only one method in interface
 interface Writer{
 	void write();
 }
