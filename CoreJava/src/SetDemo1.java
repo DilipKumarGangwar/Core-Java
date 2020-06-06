@@ -6,6 +6,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
+
 public class SetDemo1 {
 	public static void main(String[] args) {
 		
@@ -19,7 +20,6 @@ public class SetDemo1 {
 		for (Integer i : s1) {
 			System.out.println(i + " ");
 		}
-		
 		
 	}
 }

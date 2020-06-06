@@ -25,9 +25,11 @@ public class AnonymousClass {
 									System.out.println("World");
 								}
 		                 };
+		                 
 		 
 		abc.show();                 
 
 	}
+	
 
 }

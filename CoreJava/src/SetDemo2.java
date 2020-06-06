@@ -19,8 +19,7 @@ public class SetDemo2 {
 		System.out.println("In Ascending order");
 		for (Integer i : s1) {
 			System.out.println(i + " ");
-		}
-		
+		}		
 		//for descending order
         TreeSet<Integer> s2=new TreeSet<Integer>();   
 		

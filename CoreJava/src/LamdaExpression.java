@@ -17,7 +17,9 @@ public class LamdaExpression {
 //
 //          };
 //		
-//         Instead of above commented part, we can write this way also using Lamda Expression		
+//         Instead of above commented part, we can write this way also using Lamda Expression
+		
+		
          Reader r = ()-> {
 			
 			                 	System.out.println("I am Reading ");

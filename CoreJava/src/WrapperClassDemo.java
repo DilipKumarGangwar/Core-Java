@@ -5,8 +5,7 @@ public class WrapperClassDemo {
 
 	public static void main(String[] args) {
 
-
-		int i=10;
+        int i=10;
 		Byte byte1 = Byte.valueOf((byte)1);
 		Short s = Short.valueOf((short)2);
 		Integer a= Integer.valueOf(i);  //Boxing or wrapping - Converting a primitive type to Class type
@@ -23,7 +22,7 @@ public class WrapperClassDemo {
         
         int x= i;
         System.out.println("Value of x="+ x);
-        
+       
 	}
 
 }

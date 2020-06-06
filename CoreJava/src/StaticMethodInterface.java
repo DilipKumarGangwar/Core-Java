@@ -12,7 +12,5 @@ public class StaticMethodInterface {
 	public static void main(String[] args) {
        		
 		Demo.show(); //calling show method of interface
-		
-		
 	}
 }

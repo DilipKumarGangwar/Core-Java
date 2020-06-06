@@ -38,6 +38,7 @@ class sample1{
 	
 }
 
+
 class sample2 extends sample1{
 //	@Override
 //	void display() {                                          // Cannot override it as display is final in superclass Sample1

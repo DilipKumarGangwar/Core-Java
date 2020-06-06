@@ -11,8 +11,7 @@ public class CollectionSortDemo {
 		c.add(2);
 		c.add(50);
 		
-		
-		System.out.println("List in Ascending order");
+	    System.out.println("List in Ascending order");
 		Collections.sort(c);
 		for (int i = 0; i < c.size(); i++) {
 			System.out.print(c.get(i)+ " ");

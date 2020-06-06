@@ -12,5 +12,5 @@ public class TryWithResource {
 			 System.out.println("USer entered="+i);
 		}
 	}
-
+	
 }

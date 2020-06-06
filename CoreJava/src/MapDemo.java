@@ -20,6 +20,7 @@ public class MapDemo {
 		System.out.println("1st way:");
 		System.out.println(map);
 		
+	
 		//2nd way to display data
 		System.out.println("2nd way:");
 		Set<String > keys = map.keySet();  //extract all keys from map

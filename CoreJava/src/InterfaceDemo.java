@@ -3,12 +3,14 @@ interface Writer{
 	void write();
 }
 
+
 class Implementor implements Writer{
 	public void write() {
 		System.out.println("I am writing");
 		
 	}
 }
+
 public class InterfaceDemo {
 
 	public static void main(String[] args) {

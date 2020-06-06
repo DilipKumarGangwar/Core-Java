@@ -5,7 +5,6 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
-
 class Student implements Comparable<Student> {
 	
 	int rollno;

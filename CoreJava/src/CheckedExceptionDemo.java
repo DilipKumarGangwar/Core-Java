@@ -26,6 +26,7 @@ public class CheckedExceptionDemo {
 			System.out.println("Resource is closed");
 		}
 		 
+		
 		 
 		
 

@@ -30,6 +30,7 @@ public class CollectionDemo2 {
 			System.out.print(c.get(i)+ " ");
 		}
 		
+		
 		System.out.println();
 		
 		//*******3rd way***************** 

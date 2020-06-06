@@ -10,6 +10,7 @@ interface Fun{
 		System.out.println("Hello");
 	}
 	
+	
 }
 
 class Implementing implements Fun{

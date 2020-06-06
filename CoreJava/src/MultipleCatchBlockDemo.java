@@ -25,9 +25,11 @@ public class MultipleCatchBlockDemo {
 			System.out.println("All exceptions are caught here . Nobody can escape from here"+ e);	
 		}
 		
+		
 		finally {
 			System.out.println("This final block is executed whether or not exception occurs");
 		}
+		
 
 	}
 
